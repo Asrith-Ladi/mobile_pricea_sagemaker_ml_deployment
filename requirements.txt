@@ -1,0 +1,7 @@
+kagglehub
+kaggle
+sagemaker
+scikit-learn
+pandas
+numpy
+ipykernal
